@@ -1,0 +1,2 @@
+model_checkpoint_path: "sa.netmodel"
+all_model_checkpoint_paths: "sa.netmodel"
